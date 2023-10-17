@@ -1,0 +1,13 @@
+.loginCard {
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgba(18, 18, 18, 0.074);
+    background-color: #bbe3ff;
+}
+
+.loginCardFlex {
+    padding: 10%;
+    padding-bottom: 4%;
+    display: flex;
+    flex-direction: column;
+}
